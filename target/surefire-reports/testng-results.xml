@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="1153" started-at="2017-03-14T20:38:44Z" finished-at="2017-03-14T20:38:46Z">
+  <suite name="Command line suite" duration-ms="1087" started-at="2017-03-14T21:06:20Z" finished-at="2017-03-14T21:06:21Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="1153" started-at="2017-03-14T20:38:44Z" finished-at="2017-03-14T20:38:46Z">
+    <test name="Command line test" duration-ms="1087" started-at="2017-03-14T21:06:20Z" finished-at="2017-03-14T21:06:21Z">
       <class name="test.html.java.DataModelTest">
-        <test-method status="PASS" signature="areHelloWorldTwoWords()[pri:0, instance:test.html.java.DataModelTest@6bdf28bb]" name="areHelloWorldTwoWords" duration-ms="35" started-at="2017-03-14T21:38:44Z" finished-at="2017-03-14T21:38:44Z">
+        <test-method status="PASS" signature="areHelloWorldTwoWords()[pri:0, instance:test.html.java.DataModelTest@6bdf28bb]" name="areHelloWorldTwoWords" duration-ms="41" started-at="2017-03-14T22:06:20Z" finished-at="2017-03-14T22:06:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- areHelloWorldTwoWords -->
       </class> <!-- test.html.java.DataModelTest -->
       <class name="test.html.java.JsInteractionTest">
-        <test-method status="PASS" signature="initializeJSEngine()[pri:0, instance:test.html.java.JsInteractionTest@3f0ee7cb]" name="initializeJSEngine" is-config="true" duration-ms="537" started-at="2017-03-14T21:38:44Z" finished-at="2017-03-14T21:38:45Z">
+        <test-method status="PASS" signature="initializeJSEngine()[pri:0, instance:test.html.java.JsInteractionTest@3f0ee7cb]" name="initializeJSEngine" is-config="true" duration-ms="478" started-at="2017-03-14T22:06:20Z" finished-at="2017-03-14T22:06:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeJSEngine -->
-        <test-method status="PASS" signature="testCallbackFromJavaScript()[pri:0, instance:test.html.java.JsInteractionTest@3f0ee7cb]" name="testCallbackFromJavaScript" duration-ms="568" started-at="2017-03-14T21:38:45Z" finished-at="2017-03-14T21:38:46Z">
+        <test-method status="PASS" signature="testCallbackFromJavaScript()[pri:0, instance:test.html.java.JsInteractionTest@3f0ee7cb]" name="testCallbackFromJavaScript" duration-ms="557" started-at="2017-03-14T22:06:20Z" finished-at="2017-03-14T22:06:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCallbackFromJavaScript -->
-        <test-method status="PASS" signature="shutdownJSEngine()[pri:0, instance:test.html.java.JsInteractionTest@3f0ee7cb]" name="shutdownJSEngine" is-config="true" duration-ms="0" started-at="2017-03-14T21:38:46Z" finished-at="2017-03-14T21:38:46Z">
+        <test-method status="PASS" signature="shutdownJSEngine()[pri:0, instance:test.html.java.JsInteractionTest@3f0ee7cb]" name="shutdownJSEngine" is-config="true" duration-ms="0" started-at="2017-03-14T22:06:21Z" finished-at="2017-03-14T22:06:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shutdownJSEngine -->
